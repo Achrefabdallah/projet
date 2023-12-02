@@ -1,0 +1,164 @@
+/* HomePage.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+.navbar {
+    background-color: #343a40; /* Dark background color */
+    padding: 15px 0; /* Adjust the padding as needed */
+  }
+  
+  .navbar-toggler {
+    border: none;
+    background-color: #007bff; /* Button color */
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    color: #ffffff; /* Logo color */
+  }
+  
+  .nav-link {
+    color: #ffffff; /* Navigation link color */
+    font-weight: bold;
+    transition: color 0.3s ease; /* Smooth transition on color change */
+  }
+  
+  .nav-link:hover {
+    color: #28a745; /* Hover color */
+  }
+  
+  .ml-auto .nav-link {
+    margin-right: 10px; /* Adjust the margin between user/cart icons */
+  }
+  
+  .carousel {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    
+  }
+  
+  /* Additional styles for the carousel images */
+  .carousel img {
+    width: 100%;
+    border-radius: 10px; /* Ensure images are rounded */
+  }
+  
+  footer {
+    position: relative;
+    
+  
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Your footer background color */
+    color: #ffffff; /* Your footer text color */
+    padding: 15px; /* Adjust padding as needed */
+  }
+  
+  .social-icons {
+    margin-top: 20px; /* Adjust the margin between content and social icons */
+  }
+  
+  .social-icon {
+    font-size: 1.5rem;
+    color: #ffffff; /* Social icon color */
+    margin-right: 10px; /* Adjust the margin between social icons */
+    transition: color 0.3s ease; /* Smooth transition on color change */
+  }
+  
+  .social-icon:hover {
+    color: #007bff; /* Hover color */
+  }
+  
+/* Add these styles to your CSS file */
+
+/* Login/Signup Modal Styles */
+.modal-header {
+  background-color: #1e1e1f; /* Dark color for the header */
+  color: #fff; /* Text color for the header */
+}
+
+.modal-title {
+  font-size: 24px;
+}
+
+.active-tab {
+  cursor: pointer;
+  padding: 10px;
+  color: #1e1e1f; /* Color for the active tab text */
+  border-bottom: 2px solid #007bff; /* Border color for the active tab */
+}
+
+.inactive-tab {
+  cursor: pointer;
+  padding: 10px;
+  color: #ccc; /* Color for the inactive tab text */
+}
+
+/* HomePage.css */
+
+/* Add these styles to your CSS file */
+
+/* Container for Login/Sign Up buttons */
+/* HomePage.css */
+
+/* Add these styles to your CSS file */
+
+/* Container for Login/Sign Up buttons */
+
+  
+  /* Style for Login/Sign Up buttons */
+ /* HomePage.css */
+
+/* Add these styles to your CSS file */
+
+/* Style for Login/Sign Up buttons */
+/* HomePage.css */
+
+/* Add these styles to your CSS file */
+
+/* Style for text input fields */
+.modal-body input {
+  margin-bottom: 10px; /* Adjust the margin as needed */
+}
+
+/* Style for Login/Sign Up buttons */
+.modal-body button {
+  margin-top: 20px; /* Adjust the margin as needed */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#1e1e1f;
+  border-color:#1e1e1f
+}
+
+  
+  
+/* HomePage.css */
+
+/* Add these styles to your CSS file */
+
+/* Container for Login/Sign Up buttons */
+.modal-footer {
+  text-align: center;
+}
+
+/* Style for Login/Sign Up buttons */
+.modal-footer button {
+  margin-top: 20px; /* Adjust the margin as needed */
+  
+}
+
+/* Customize the form inputs, buttons, etc. based on your preferences */
+html {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* This ensures that the content takes at least the full height of the viewport */
+  margin: 0;
+}
+
+/* Your existing styles for the footer */
